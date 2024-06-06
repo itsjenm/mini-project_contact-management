@@ -1,0 +1,3 @@
+john.doe@example.com,John Doe,123-456-7890,123 Elm Street,Friend from school
+michael.burry@example.com,Michael Burry,333-897-7899,900 Wall Street,Hedge fund investor
+jenny@example.com,jenny,777-7777,310 Awesome Street,Jenny is cool
